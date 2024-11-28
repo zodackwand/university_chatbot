@@ -1,0 +1,5 @@
+The Student Immigration & Compliance team provide international students with vital visa advice and support, and ensure Warwick is compliant with UK immigration rules and sponsor duties. The team supports all EU and international students during their studies at Warwick and assists with immigration advice (a free and confidential service advising on issues including visa extensions, dependant visas, working in the UK during or after study, travel visas, etc.); practical support (bringing family to the UK, provides letters to prove student status for visa purposes, etc). Advice on immigration should only be obtained via appropriately qualified staff in the Immigration team (https://warwick.ac.uk/study/international/immigration).
+
+ 
+
+It is important to note that changes to an international student’s enrolment status, for instance, temporary withdrawal, resit examinations etc., can have implications for their ability to hold a visa to remain in the UK and students will wish to seek advice accordingly. https://warwick.ac.uk/study/international/immigration/student_route/changes

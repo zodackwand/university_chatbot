@@ -1,0 +1,17 @@
+Objectives
+The MSc in Computer Science and the MSc in Data Analytics aim to provide flexible interdisciplinary courses that cover a wide range of advanced research-led topics. The courses provide a solid preparation for the use of cutting-edge tools, techniques and technologies in an industrial or business setting. Topics range from core Computer Science to the application of advanced techniques in areas such as mathematics, computational biology, multimedia processing, and scientific computing. The courses also aim to provide excellent preparation for PhD studies.
+
+Structure of the Course
+The period of study is 12 months (October to September), divided into two overlapping components: a taught component which takes place from October to March, and a dissertation project that takes place from January to September.
+
+Taught Component
+Computer Science: There are three core modules: Research Methods (15 CATS), the Dissertation Project (60 CATS), and Foundations of Computing (15 CATS). Students should also take 90 CATS (credits), from the list of available options, which are detailed on the Course StructureLink opens in a new window page. The total load is 180 CATS with no underload or overload permitted.
+
+Data Analytics: There are five core modules: Research Methods (15 CATS), the Dissertation Project (60 CATS), Foundations of Data Analytics (15 CATS), Data Mining (15 CATS), and Foundations of Computing (15 CATS). Students should also take 60 CATS (credits), from the list of available options, which are detailed on the Course StructureLink opens in a new window page. The total load is 180 CATS with no underload or overload permitted.
+
+You are encouraged to look at the details of the available modules and to select appropriately according to your previous experience, current interests, and future plans. You may speak with your personal tutor to get advice on the module selection. Note that some module descriptions contain a list of prerequisites. Although these do not directly apply to MSc students, you should discuss your selection with your personal tutor and the module organiser, and use any stated prerequisites as guidance. You are expected to undertake any background reading that is required.
+
+The Department reserves the right not to offer a module in any year, or to offer alternative modules as considered appropriate. Sufficient modules will be offered in any year to allow candidates an element of choice within the course requirements. Some modules may require additional reading for those students whose first-degree course did not contain the necessary prerequisite material.
+
+Dissertation Project
+A dissertation project of 60 CATS is undertaken individually on a topic related to Computer Science / Data Analytics. Topics may be related to the taught component of the course or may be based on your wider interests. There is significant flexibility in choosing a dissertation topic and you are encouraged to think about it early and to discuss your ideas with potential supervisors. Topics are chosen and supervisors are assigned from November to December. The project work is undertaken from January to September. The project is a large piece of work that requires an oral presentation at the start of Term 3, an interim report to be submitted in mid-July, and a final dissertation report to be submitted early in September.
