@@ -8,6 +8,5 @@ unstructured==0.14.4 # Document loading
 # install onnxruntime before installing `chromadb`
 chromadb==0.5.0 # Vector storage
 openai==1.31.1 # For embeddings
-tiktoken==0.7.0  # For embeddings 
-sqlite==3.47.0 # For embeddings
+tiktoken==0.7.0  # For embeddings Я 
 # install markdown dependencies with: `pip install "unstructured[md]"` after install the requirements file. Leave this line commented out.
