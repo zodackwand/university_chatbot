@@ -8,6 +8,10 @@ import openai
 from dotenv import load_dotenv
 import os
 
+__import__('pysqlite3')
+import sys
+sys.modules['sqlite3'] = sys.modules.pop('pysqlite3')
+
 load_dotenv()
 # Установите ваш API ключ OpenAI
 openai.api_key = os.getenv("OPENAI_API_KEY")
